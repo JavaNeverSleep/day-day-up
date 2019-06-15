@@ -90,5 +90,19 @@
             <version>1.18.8</version>
             <scope>provided</scope>
         </dependency>
+        <dependency>
+            <groupId>com.sun</groupId>
+            <artifactId>tools</artifactId>
+            <version>1.8</version>
+            <scope>system</scope>
+            <!-- This project uses JDK12, you might need change path for JDK8 here -->
+            <systemPath>C:/Program Files/Java/jdk1.8.0_212/lib/tools.jar</systemPath>
+        </dependency>
+        <dependency>
+            <groupId>com.google.auto.service</groupId>
+            <artifactId>auto-service</artifactId>
+            <version>1.0-rc5</version>
+            <optional>true</optional>
+        </dependency>
     </dependencies>
 </project>
