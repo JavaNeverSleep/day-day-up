@@ -4,9 +4,11 @@
 
 ## 百日向上记
 
-- [X] 从String.repeat()说起  06/11/2019
-- [ ] QuickSort, 递归，霍尔与
-- [ ] Lombok探秘 06/12/2019
+- [X] 从String.repeat()说起  06/12/2019
+- [X] Lombok探秘（上） 06/13/2019
+- [X] Lombok探秘（下） 06/14/2019
+- [ ] JSR199：动态编译 06/15/2019
+- [ ] QuickSort, 递归，霍尔与Dijkstra
 - [ ] 肥婆拉车与BigInteger
 - [ ] HelloWorld的秘密
 - [ ] 初始Compiler API
